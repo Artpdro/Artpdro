@@ -13,7 +13,7 @@ class Arthur():
     self.username = "ArtPdro"
     self.location = "Recife, Pernambuco"
     self.email = "arthurpedro.profissional@gmail.com"
-    self.hardskill = "Python, Pandas, MySQL, Git"
+    self.hardskill = "Python, Pandas, MySQL, HTML, CSS"
   
   def __str__(self):
     return self.name
