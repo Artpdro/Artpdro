@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Artpdro&show_icons=true&theme=prussian&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Artpdro&theme=prussian&hide_border=true" />
+  <img width="49.6%" src="https://github-readme-stats.vercel.app/api?username=Artpdro&show_icons=true&theme=prussian&hide_border=true" />
+    <img width="49.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=Artpdro&theme=prussian&hide_border=true" />
 </p>
 <br>
